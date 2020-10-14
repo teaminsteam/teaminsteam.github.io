@@ -170,6 +170,10 @@ footer a:hover {
   color: #fdcb6e;
 }
 
-.cards {
-  background: rgb(30, 30, 30) !important;
+.cards .title{
+  color: rgb(74, 74, 74) !important; 
+}
+
+.cards .subtitle{
+  color: rgb(74, 74, 74) !important; 
 }
