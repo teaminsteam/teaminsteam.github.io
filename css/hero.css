@@ -148,3 +148,28 @@ input {
 input::placeholder {
   color: white !important;
 }
+
+footer {
+  color: white;
+  background: rgb(30, 30, 30) !important;
+}
+
+footer .title {
+  color: white;
+}
+
+footer .subtitle {
+  color: white;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: #fdcb6e;
+}
+
+.cards {
+  background: rgb(30, 30, 30) !important;
+}
