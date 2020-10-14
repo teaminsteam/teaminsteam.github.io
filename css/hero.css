@@ -92,7 +92,7 @@ box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
 }
 
 #parallax-1 {
-  background: url(../images/hallway.jpg);
+  background: url(../images/hallway-lo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -105,7 +105,7 @@ box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
 }
 
 #parallax-2 {
-  background: url(../images/lewitt.jpg);
+  background: url(../images/lewitt-lo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -118,7 +118,7 @@ box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
 }
 
 #parallax-3 {
-  background: url(../images/maze.jpg);
+  background: url(../images/maze-lo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
