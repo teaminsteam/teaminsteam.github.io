@@ -92,7 +92,7 @@ box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
 }
 
 #parallax-1 {
-  background: url(../images/sprout.jpg);
+  background: url(../images/sprout-lo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -105,7 +105,7 @@ box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
 }
 
 #parallax-2 {
-  background: url(../images/code3.jpg);
+  background: url(../images/code3-lo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -118,7 +118,7 @@ box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
 }
 
 #parallax-3 {
-  background: url(../images/stairs.jpg);
+  background: url(../images/stairs-lo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
